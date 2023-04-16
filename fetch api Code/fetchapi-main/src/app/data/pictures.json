@@ -1,0 +1,46 @@
+{
+    "pictures":[
+        {
+            "id":1,
+            "pictureURL":"/code.jpg",
+            "width":"400",
+            "height":"400",
+            "alt":"coding structure practice"
+        },
+        {
+            "id":2,
+            "pictureURL":"/coding.jpg",
+            "width":"400",
+            "height":"400",
+            "alt":"coding structure practice"
+        },
+        {
+            "id":3,
+            "pictureURL":"/desktop.jpg",
+            "width":"400",
+            "height":"400",
+            "alt":"coding structure practice"
+        },
+        {
+            "id":4,
+            "pictureURL":"/laptop.jpg",
+            "width":"400",
+            "height":"400",
+            "alt":"coding structure practice"
+        },
+        {
+            "id":5,
+            "pictureURL":"/motivator.jpg",
+            "width":"400",
+            "height":"400",
+            "alt":"coding structure practice"
+        },
+        {
+            "id":6,
+            "pictureURL":"/worktable.jpg",
+            "width":"400",
+            "height":"400",
+            "alt":"coding structure practice"
+        }
+    ]
+}
